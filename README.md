@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Johnny-gomes
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on open-source projects and learn as much as i can
+- 📫 You can rach me in johnny.gomes.web@gmail.com
